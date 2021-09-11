@@ -1,6 +1,6 @@
 [![nuxt/modules](https://modules.nuxtjs.org/preview.png)](https://modules.nuxtjs.org)
 -----
-
+----
 > Official and community [Nuxt](https://nuxtjs.org) modules united on [modules.nuxtjs.org](https://modules.nuxtjs.org)
 
 # Nuxt Modules
