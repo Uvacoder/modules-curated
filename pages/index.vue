@@ -7,10 +7,10 @@
           <IconNuxt alt="Nuxt" />
         </div>
         <h1 class="mt-4 text-4xl font-extrabold leading-10 text-white sm:text-5xl sm:leading-none sm:tracking-tight lg:text-6xl">
-          Find Nuxt Modules
+          Find Nuxt abc Modules
         </h1>
         <p class="max-w-xl mx-auto mt-5 text-lg leading-7 sm:text-xl text-rainy-grey">
-          Discover our list of modules to supercharge your <a href="https://nuxtjs.org" rel="noopener" target="_blank" class="border-b border-stone-green hover:text-green-500 hover:border-green-600">Nuxt project</a>. Created by the Nuxt team and community.
+          Discover our list of modules to supercharge your <a href="https://nuxtjs.org" rel="noopener" target="_blank" class="border-b border-stone-green hover:text-green-500 hover:border-green-600">Nuxt project</a>. Created by anybody and everybody.
         </p>
         <div class="max-w-xl mx-auto mt-2 text-center">
           <a href="https://github.com/nuxt/modules" rel="noopener" target="_blank" class="items-center space-x-1 leading-4 border-b text-md text-grey-light border-stone-green hover:text-green-500 hover:border-green-600">
@@ -26,7 +26,7 @@
         <dl class="bg-white rounded-lg shadow-lg sm:grid sm:grid-cols-3">
           <div class="flex justify-center p-4 text-center border-b border-gray-100 sm:flex-col sm:p-6 sm:border-0 sm:border-r">
             <dt id="item-1" class="order-2 ml-2 font-medium leading-6 text-gray-500 sm:mt-2 sm:ml-0 sm:text-md sm:capitalize">
-              modules
+              abcmodules
             </dt>
             <dd class="order-1 text-2xl font-extrabold leading-none text-green-700 sm:text-4xl" aria-describedby="item-1">
               {{ modules.length }}
@@ -156,7 +156,7 @@
 
     <!-- Footer -->
     <footer class="container flex flex-col items-center justify-center pt-12 mx-auto text-stone-green">
-      <p>For more information on Nuxt modules, including how to create a module, check out our <a href="https://nuxtjs.org/guides/directory-structure/modules" rel="noopener" target="_blank" class="items-center space-x-1 leading-4 border-b text-md text-grey border-stone-green hover:text-green-500 hover:border-green-600">docs</a>.</p>
+      <p>For more information on abc Nuxt modules, including how to create a module, check out our <a href="https://nuxtjs.org/guides/directory-structure/modules" rel="noopener" target="_blank" class="items-center space-x-1 leading-4 border-b text-md text-grey border-stone-green hover:text-green-500 hover:border-green-600">docs</a>.</p>
       <div class="flex justify-center px-4 pt-6 space-x-2 sm:px-0">
         <a href="https://vercel.com" rel="noopener" target="_blank" aria-label="go to vercel">
           <IconVercel alt="Vercel" />
@@ -243,8 +243,8 @@ export default {
     }
   },
   head () {
-    const title = 'Explore Nuxt Modules'
-    const description = 'Discover our list of modules to supercharge your Nuxt project. Created by the Nuxt team and community.'
+    const title = 'abc Explore Nuxt Modules'
+    const description = 'abc Discover our list of modules to supercharge your Nuxt project. Created by the Nuxt team and community.'
     const url = 'https://modules.nuxtjs.org'
 
     return {
