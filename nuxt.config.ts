@@ -40,7 +40,7 @@ export default <NuxtConfig> {
     theme_color: '#003c3c'
   },
   plausible: {
-    domain: 'modules.nuxtjs.org'
+    domain: 'modules-curated.vercel.app'
   },
   typescript: {
     typeCheck: false
